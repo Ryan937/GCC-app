@@ -1,0 +1,20 @@
+{
+  "name": "gcc-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^1.2.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    // "predeploy": "yarn run build",
+    // "deploy": "gh-pages -b -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  // "homepage": "https://ryan937.github.io/react-demo"
+}
